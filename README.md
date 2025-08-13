@@ -12,7 +12,7 @@ Understanding transport patterns in London to identify congestion trends, popula
 ## Features
 - Analysis of traffic flow and congestion hotspots  
 - Identification of popular routes and travel patterns  
-- Visualization of mobility trends across different transport modes
+- Visualisation of mobility trends across different transport modes
 
 ## Tools & Technologies
 - Python (pandas, matplotlib, seaborn, geopandas)  
