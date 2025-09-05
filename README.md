@@ -1,9 +1,10 @@
 # London Mobility
 
-Analysis of urban mobility patterns in London using Transport for London (TfL) journey data.
+## Motivation
+As someone who has lived in London all my life, public transport is central to how I move around the city. This project grew out of my curiosity about how Londoners move around and how travel patterns change over time, especially during major events like the Olympics or disruptions like COVID-19. 
 
 ## Goal
-To understand transport patterns in London in order to identify congestion trends, popular routes, and opportunities for more sustainable mobility.
+By analysing TFL journey data, I wanted to explore trends in transport usage across the city, understand which modes dominate daily travel, and see how events and seasonal changes affect Londoner's mobility.
 
 ## Dataset
 - **TfL Journeys by Mode** (`tfl-journeys-type.csv`)  
@@ -36,7 +37,7 @@ The following steps were applied:
 
 ### 1. Trends Across All Modes
 ![Trends in London Journeys](plots/trends.png)  
-Bus and Underground dominate journeys across London. All modes show a sharp decline in 2020 due to COVID-19 restrictions.  
+Bus and Underground dominate journeys across London. The sharp decline in 2020 reflects the COVID-19 lockdowns, showing how global events can drastically change daily life.
 
 ### 2. Bus vs Underground
 ![Bus vs Underground](plots/bus_vs_underground.png)  
@@ -53,13 +54,11 @@ The 2012 Olympics boosted Underground journeys temporarily, while COVID-19 cause
 ---
 
 ## Conclusion 
-- Bus and Underground journeys form the backbone of London’s transport system, showing clear seasonal variation.  
-- Bus travel recovered faster than the Underground following COVID-19, suggesting it is more resilient to disruption.  
-- Major events such as the 2012 Olympics increased demand temporarily, whereas COVID-19 caused the steepest decline on record.  
+London's transport system is highly dynamic, shaped by seasonality and global events. Buses and the Underground form the backbone of mobility, but they respond differently to disruption, with buses proving more resilient after COVID-19.
+
+This project showed me how numbers reflect real-life experiences, such as the near-desertion of central London during the pandemic.
+
+Working through this project gave me a deeper understanding of London's mobility patterns while also helping me understand the entire data analysis workflow, from cleaning messy data and exploring trends to choosing the right visualisations and telling a story with numbers.
 
 ---
-
-## Next Steps
-- Extend the analysis by incorporating cycling and walking datasets to capture active travel.  
-- Investigate the impact of major infrastructure projects (e.g., the Elizabeth Line).  
-- Apply forecasting models to predict future mobility patterns.  
+ 
