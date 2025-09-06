@@ -37,19 +37,26 @@ The following steps were applied:
 
 ### 1. Trends Across All Modes
 ![Trends in London Journeys](plots/trends.png)  
-Bus and Underground dominate journeys across London. The sharp decline in 2020 reflects the COVID-19 lockdowns, showing how global events can drastically change daily life.
+Most modes follow steady patterns, but all show a sharp dip in 2020 due to COVID-19. Bus and Underground dominate overall, while the Cable Car remains minimal and highly seasonal.
 
-### 2. Bus vs Underground
+### 2. Bus Peak
+Bus journeys reached their peak in March 2015 at 207.5 million journeys, almost double Underground usage at the same time. March peaks also appear in 2014, likely linked to TfL’s reporting cycles and seasonal travel patterns (spring commuting, school terms, better weather). 
+
+### 3. Bus Journeys Over Time
+![Bus Journeys Over Time](plots/bus_over_time.png)  
+After 2015, bus usage shows a steady decline, reflecting service cuts, congestion, and competition from rail and cycling. The long-term view highlights how bus journeys never returned to their mid-2010s highs.  
+
+### 4. Bus vs Underground
 ![Bus vs Underground](plots/bus_vs_underground.png)  
-Both modes declined significantly in 2020, but bus journeys recovered more quickly than the Underground, suggesting greater resilience.  
+When compared directly, buses consistently carried more passengers than the Underground until the mid-2010s. Both modes fell sharply in 2020, but bus journeys recovered faster, suggesting they remained essential for everyday trips.
 
-### 3. Seasonality
-![Seasonality](plots/seasonality.png)  
-Journeys consistently dip in August (holiday period) and December (Christmas), with peaks in spring and autumn months.  
+### 5. Seasonality
+![Seasonality](plots/seasonality.png)
+Journeys follow a clear seasonal rhythm: dips in summer (holidays) and December (Christmas), with peaks in spring and autumn. Recognising these patterns helps with planning service levels and managing demand.
 
-### 4. Event Impact
-![Event Impact](plots/event_impact.png)  
-The 2012 Olympics boosted Underground journeys temporarily, while COVID-19 caused an unprecedented collapse in 2020.  
+### 5. Event Impact
+![Event Impact](plots/event_impact.png)
+Big events shape travel in London. The 2012 Olympics temporarily boosted Underground journeys, while COVID-19 led to an unprecedented collapse across all modes.
 
 ---
 
