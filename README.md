@@ -62,9 +62,9 @@ Big events shape travel in London. The 2012 Olympics temporarily boosted Undergr
 ## Conclusion 
 London's transport system is highly dynamic, shaped by seasonality and global events. Buses and the Underground form the backbone of mobility, but they respond differently to disruption, with buses proving more resilient after COVID-19.
 
-This project showed me how numbers reflect real-life experiences, such as the near-desertion of central London during the pandemic.
+This project showed how numbers reflect real-life experiences, such as the near-desertion of central London during the pandemic. It also highlighted that interpreting transport data requires context: factors like fare differences, the availability of alternatives such as Uber or cycling, and other economic and behavioural influences all shape mobility patterns.
 
-Working through this project gave me a deeper understanding of London's mobility patterns. It also helped me understand the entire data analysis workflow, from cleaning messy data and exploring trends to choosing the right visualisations and communicating insights from data.
+Working through this project gave me a deeper understanding of London's transport trends and the entire data analysis workflow, from cleaning messy data and exploring trends to choosing the right visualisations and communicating insights from data.
 
 ---
 
